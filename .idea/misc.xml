@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3165" />
+        <entry key="app/src/main/res/drawable-v24/round_corner_after click.xml" value="0.1825" />
+        <entry key="app/src/main/res/drawable/after_click.xml" value="0.1825" />
+        <entry key="app/src/main/res/drawable/click.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.3165" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3165" />
+        <entry key="app/src/main/res/drawable/ic_search.xml" value="0.26" />
+        <entry key="app/src/main/res/drawable/round_corner.xml" value="0.1825" />
+        <entry key="app/src/main/res/drawable/search_view_bg.xml" value="0.155" />
+        <entry key="app/src/main/res/layout/activity_add_item.xml" value="0.28249969482421877" />
+        <entry key="app/src/main/res/layout/activity_barcode.xml" value="0.30416666666666664" />
+        <entry key="app/src/main/res/layout/activity_details.xml" value="0.30625" />
+        <entry key="app/src/main/res/layout/activity_inventory.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/activity_inventory2.xml" value="0.3371500651041666" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/activity_main_menu.xml" value="0.35101470947265623" />
+        <entry key="app/src/main/res/layout/activity_menu.xml" value="0.4034164428710938" />
+        <entry key="app/src/main/res/layout/activity_price_qunatity.xml" value="0.3199966430664063" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.41023101806640627" />
+        <entry key="app/src/main/res/layout/activity_scan_in.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_scan_out.xml" value="0.32179209391276037" />
+        <entry key="app/src/main/res/layout/activity_search.xml" value="0.6345077514648437" />
+        <entry key="app/src/main/res/layout/activity_search_results.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/item.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/layouttest.xml" value="0.340625" />
+        <entry key="app/src/main/res/layout/round_corner.xml" value="0.2875" />
+        <entry key="app/src/main/res/menu/my_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "755106342832",
+    "firebase_url": "https://warehousescan-3d1b6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "warehousescan-3d1b6",
+    "storage_bucket": "warehousescan-3d1b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755106342832:android:509ae71d38c46e8eda1875",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755106342832-s64gb9i0848g35qquq5032jlgruu1cj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqGl4fuvgfI0h5SaDPFwjf_FPwhZNWxzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755106342832-s64gb9i0848g35qquq5032jlgruu1cj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755106342832:android:11d92944f4bd05a3da1875",
+        "android_client_info": {
+          "package_name": "com.example.project3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755106342832-s64gb9i0848g35qquq5032jlgruu1cj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqGl4fuvgfI0h5SaDPFwjf_FPwhZNWxzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755106342832-s64gb9i0848g35qquq5032jlgruu1cj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755106342832:android:c25361160cb0b9a2da1875",
+        "android_client_info": {
+          "package_name": "com.example.warehouseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755106342832-s64gb9i0848g35qquq5032jlgruu1cj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqGl4fuvgfI0h5SaDPFwjf_FPwhZNWxzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755106342832-s64gb9i0848g35qquq5032jlgruu1cj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
